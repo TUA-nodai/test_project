@@ -7,8 +7,8 @@ const path = require('path');
 // 重要ファイルリスト
 const filesToInclude = [
   'src/app.js',
-  'src/routes/user.routes.js',
-  'src/controllers/user.controller.js'
+  'src/routes/auth.routes.js',
+  'src/controllers/usercontroller.js'
 ];
 
 // 出力ファイル
