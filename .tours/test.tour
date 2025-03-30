@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "test",
+  "steps": [
+    {
+      "file": "src/routes/api.js",
+      "description": "test",
+      "line": 13
+    }
+  ]
+}
