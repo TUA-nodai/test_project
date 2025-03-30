@@ -1,0 +1,27 @@
+# 依存関係
+node_modules/
+
+# 環境変数
+.env
+.env.local
+.env.*.local
+
+# ログ
+logs
+*.log
+npm-debug.log*
+
+# 実行時データ
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ディレクトリ
+dist/
+build/
+coverage/
+
+# その他
+.DS_Store
+Thumbs.db
